@@ -19,7 +19,7 @@ To sign up a username, we are going to make a simple request to the Grade API.
 
 Next, we need to specify the username which we want to use. To do this, we add a parameter.
 
-3. In the Parameters tab, choose `+ Add new` and set the parameter name to `username`.
+3. In the Parameters tab, choose `+ Add new` and set the parameter name to `username` (kevinzhai).
 4. For its value, choose whatever username you want to use. Make note of the name you choose, as you'll use it during the lab. (Don't worry, you can repeat this process with a new username if you need to later!)
 5. Press the `Send` button to make the request. You may receive an error that the request didn't go through. Scroll down and select `proxy` as the middleware and press `Send` again. You should now see the result of the request.
 6. If the username had been used before, you will see a response indicating that. Choose a new username and send the request again.
@@ -78,7 +78,7 @@ by using the `Get Grade` menu and specifying your username and `207` for the cou
 You are now ready to use the program! The following task will be completed with your
 team during the lab. First, make sure everyone has successfully completed the steps above.
 
-## Task 2: Forming a team
+## Task 2: Forming a team (csc207A+)
 
 As a team-building exercise, you will now work together to form a team using
 this application. Team members in this program are able to view the grades of other
