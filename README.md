@@ -78,7 +78,7 @@ by using the `Get Grade` menu and specifying your username and `207` for the cou
 You are now ready to use the program! The following task will be completed with your
 team during the lab. First, make sure everyone has successfully completed the steps above.
 
-## Task 2: Forming a team
+## Task 2: Forming a team (csc207A+)
 
 As a team-building exercise, you will now work together to form a team using
 this application. Team members in this program are able to view the grades of other
